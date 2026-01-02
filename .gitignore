@@ -39,3 +39,7 @@ archive/
 logs/
 *.log
 
+# Old folders (nested git repos)
+daily-focus-tracker/
+focus_daily_app/
+
