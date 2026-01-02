@@ -30,4 +30,12 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+temp/
+
+# Archive
+archive/
+
+# Logs
+logs/
+*.log
 
